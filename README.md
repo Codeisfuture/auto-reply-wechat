@@ -34,3 +34,6 @@ python auto-reply-wechat.py
 2.指定人的自动回复
 
 ![](1.jpg)
+
+## 作品参考
+https://gist.github.com/yfgeek/d38775aac03f3b2d7371d2bea17766d0
